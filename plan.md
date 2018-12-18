@@ -23,7 +23,6 @@ Have to make a piece of software which has genuine usage for my company (ACN), l
 
 ## Uni spec
 
-
 ### Windows Form Application (60%) 
 
 1. It must be Forms based, with appropriate user interaction and input validation.
@@ -34,8 +33,7 @@ Have to make a piece of software which has genuine usage for my company (ACN), l
 6. It must demonstrate data persistence through saving / reading data to / from to a file.
 7. It must demonstrate your ability to develop application logic, for example through: Mechanisms for ensuring duplicate data cannot be added, Mechanisms for sorting, filtering and displaying data, Mechanisms for ensuring a finite number of data entries can be added, or, Development of a multi-user system (for example a system that provides different functionality for users with different access privileges.)
 
-
-### Meeting above spec 
+#### Meeting above spec 
 
 1. Will start with button for which type of user it is (Security/Employee), using form inputs/outputs/buttons to enter, edit, see and remove data.
 2. Variables will be neeeded in program as per usual but CONST will be things like car parking spaces, maximum cars in lot)
@@ -44,7 +42,6 @@ Have to make a piece of software which has genuine usage for my company (ACN), l
 5. add cars parked, car parked blocked by, display all parked cars and who's blocked by who, edit cars parked / blocked by
 6. file i/o will be used for data
 7. will use limited loops and consts to limit data entered. will sort, fitler and display data using i/o methods. multi-user system.
-
 
 ### Requirements Analysis & System Design (30%)
 
