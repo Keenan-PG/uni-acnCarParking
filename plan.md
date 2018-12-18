@@ -45,11 +45,11 @@ Have to make a piece of software which has genuine usage for my company (ACN), l
 
 ### Requirements Analysis & System Design (30%)
 
-User Requirements Specification (10%) 
+##### User Requirements Specification (10%) 
 Write a short requirements specification (approx. 250 words) from a client’s perspective of the proposed system. This should include a simple description of the purpose of the system, a list of functional requirements and a list of non-functional requirements.
 
-PACT Analysis (10%) 
+##### PACT Analysis (10%) 
 Your PACT analysis should identify and prioritise the people using your system, the activities that your system should automate, the context of application use, and relevant technologies, including input / output mechanisms.
 
-System Flow Chart (10%) 
+##### System Flow Chart (10%) 
 Draw a flow chart to illustrate the program flow / algorithm you are going to develop. Remember this means breaking down the problem into chunks (functional decomposition), then considering not only each sub-problem but also the relationships between them - what order do they need to happen in? Can they happen at the same time, or even in reverse? If one sub-problem fails, does it prevent the main problem from being realised? All of this means that your flow chart will show terminals, inputs, outputs, sequences, selections/decisions (if statements), calculations perhaps using iteration/repetition (loops) and any other operations you choose to use.
